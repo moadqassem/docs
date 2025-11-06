@@ -13,9 +13,10 @@ on security and reliability of provided software and therefore releases updates 
 |            Kubernetes             | v1.33.0 |
 |             KubeVirt              | v1.5.2  |
 | Containerized Data Importer (CDI) | v1.62.0 |
-|              KubeOVN              | v1.14.4 |
+|              KubeOVN              | v1.13.2 |
 |              KubeOne              | v1.11.1 |
-|              Kyverno              | v1.14.4 |
+|              Kyverno              | v1.15.0 |
 |           Cert Manager            | v1.18.2 |
 |              MetalLB              | v0.15.2 |
-
+|             Multus CNI            | v4.2.2  |
+|             Longhorn              | v1.9.1  |
